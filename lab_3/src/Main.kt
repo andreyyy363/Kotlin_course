@@ -1,3 +1,10 @@
+/*
+Варіант 19
+Система управління онлайн-курсами
+Створити інтерфейс Course. Реалізувати класи VideoCourse, InteractiveCourse,
+Workshop. Додати систему прогресу навчання.
+ */
+
 interface Course {
     val title: String
     val duration: Int
